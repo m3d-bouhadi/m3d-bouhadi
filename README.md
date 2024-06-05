@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @m3d-bouhadi
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Google
+- 📫 How to reach me: https://twitter.com/kira_byte
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I talk to machines (Sometimes)
